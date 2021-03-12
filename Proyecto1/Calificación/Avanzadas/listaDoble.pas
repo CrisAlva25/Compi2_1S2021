@@ -14,10 +14,10 @@ var point : Points;
 end;
 
 type
-DoubleList = array[1..20] of Node;
+DoubleList = array[0..20] of Node;
 
 var actualDL : DoubleList;
-var count : integer = 0;
+var count : integer = 0; //O bien inicializando count en uno en vez del cambio en el array DoubleList de 1..20 a 0..20
 var first : integer = -1;
 var last : integer = -1;
 

@@ -1,8 +1,8 @@
 program OrdenamientoRapido;
 type
     v_ = array [0..6] of integer;
-var
-	v : array[0 .. 6] of integer;
+type
+	v = array[0 .. 6] of integer;
 
 
 (* paso el arreglo por referencia *)

@@ -39,3 +39,19 @@ begin
     writeln('3 Hanoi');
     Hanoi(3, 'A', 'B', 'C');
 end.
+
+{
+1 Factorial
+720
+2 Ackermann
+125
+3 Hanoi
+Mover Disco de A a C
+Mover disco de A a B
+Mover Disco de C a B
+Mover disco de A a C
+Mover Disco de B a A
+Mover disco de B a C
+Mover Disco de A a C
+
+}

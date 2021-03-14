@@ -184,64 +184,65 @@ begin
 end.
 
 {
-----------------------                                                                                                      
-----ARCHIVO BASICO----                                                                                                      
-----------------------                                                                                                      
------------------------                                                                                                     
-El valor de V es: TRUE                                                                                                      
-El valor de F es: FALSE                                                                                                     
-El valor de datos es: 3                                                                                                     
-El valor de val1 es: 0                                                                                                      
-El valor de val2 es: 0                                                                                                      
-El valor de val3 es: 0                                                                                                      
-El valor de resp es: 0                                                                                                      
-El valor de a es: 0                                                                                                         
-El valor de b es: 0                                                                                                         
------------------------                                                                                                     
-----Dentro de Iniciar Valores----                                                                                           
-El resultado de tu suma es: 219                                                                                             
-El resultado de tu suma es: 15515                                                                                           
-El resultado de tu suma es: -17858                                                                                          
------------------------                                                                                                     
-El valor de V es: TRUE                                                                                                      
-El valor de F es: FALSE                                                                                                     
-El valor de datos es: 3                                                                                                     
+----------------------
+----ARCHIVO BASICO----
+----------------------
+-----------------------
+El valor de V es: True
+El valor de F es: False
+El valor de datos es: 3
+El valor de val1 es: 0
+El valor de val2 es: 0
+El valor de val3 es: 0
+El valor de resp es: 0
+El valor de a es: 0
+El valor de b es: 0
+-----------------------
+----Dentro de Iniciar Valores----
+El resultado de tu suma es: 219
+El resultado de tu suma es: 85802139
+El resultado de tu suma es: -85935554
+-----------------------
+El valor de V es: True
+El valor de F es: False
+El valor de datos es: 3
 El valor de val1 es: 214
-El valor de val2 es: -2781                                                                                                  
-El valor de val3 es: -17858                                                                                                 
-El valor de resp es: -20425                                                                                                 
-El valor de a es: 15510                                                                                                     
-El valor de b es: 15087                                                                                                     
------------------------                                                                                                     
------------------------                                                                                                     
-Dentro de Inicio                                                                                                            
-El resultado de tu suma es: 10                                                                                              
-10                                                                                                                          
-----Dentro de Decisiones----                                                                                                
-En este lugar deberia de entrar :)                                                                                          
-Entro!? Que bueno :D                                                                                                        
------------------------                                                                                                     
-Esto deberia de imprimirse...                                                                                               
-----Dentro de Ciclos y Control----                                                                                          
-While                                                                                                                       
-El valor de i: 0                                                                                                            
-El valor de i: 1                                                                                                            
-El valor de i: 2                                                                                                            
-For Do                                                                                                                      
-El valor de i: 0                                                                                                            
+El valor de val2 es: -133853
+El valor de val3 es: -85935554
+El valor de resp es: -86069193
+El valor de a es: 85802134
+El valor de b es: 85801711
+-----------------------
+-----------------------
+Dentro de Inicio
+El resultado de tu suma es: 10
+10
+----Dentro de Decisiones----
+En este lugar deberia de entrar :)
+Entro!? Que bueno :D
+-----------------------
+Esto deberia de imprimirse...
+----Dentro de Ciclos y Control----
+While
+El valor de i: 0
 El valor de i: 1
-El valor de i: 2                                                                                                            
-El valor de i: 3                                                                                                            
-El valor de i: 4                                                                                                            
-El valor de i: 5                                                                                                            
-El valor de i: 6                                                                                                            
-El valor de i: 7                                                                                                            
-Repeat                                                                                                                      
-El valor de i: 6                                                                                                            
-El valor de i: 4                                                                                                            
-El valor de i: 2                                                                                                            
------------------------                                                                                                     
-----------------------------------------                                                                                    
-----ESPEREMOS QUE HAYA FUNCIONADO :D----                                                                                    
+El valor de i: 2
+For Do
+El valor de i: 0
+El valor de i: 1
+El valor de i: 2
+El valor de i: 3
+El valor de i: 4
+El valor de i: 5
+El valor de i: 6
+El valor de i: 7
+Repeat
+El valor de i: 6
+El valor de i: 4
+El valor de i: 2
+-----------------------
 ----------------------------------------
+----ESPEREMOS QUE HAYA FUNCIONADO :D----
+----------------------------------------
+
 }
